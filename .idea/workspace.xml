@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f25183d-0232-4662-bef0-b33f32ac6fec" name="更改" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/java-foundational/src/main/java/net/woiswzx/java/foundational/object/HelloWorld.java" afterDir="false" />
+    <list default="true" id="4f25183d-0232-4662-bef0-b33f32ac6fec" name="更改" comment="我的第一个Java程序">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-foundational/src/main/java/net/woiswzx/java/foundational/object/Helloworld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-foundational/src/main/java/net/woiswzx/java/foundational/syntax/Helloworld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-foundational/src/main/java/net/woiswzx/java/Helloword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-foundational/src/main/java/net/woiswzx/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-foundational/src/main/java/net/woiswzx/java/foundational/object/HelloWorld.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,20 +73,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.woiswzx.java.foundational.object.Helloworld" />
+      <module name="java-foundational" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.woiswzx.java.foundational.object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Helloworld" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -96,7 +118,8 @@
       <updated>1687017332425</updated>
       <workItem from="1687017333832" duration="137000" />
       <workItem from="1687017517909" duration="2593000" />
-      <workItem from="1687020433225" duration="3365000" />
+      <workItem from="1687020433225" duration="4547000" />
+      <workItem from="1687144644536" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1687141839956</created>
@@ -119,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687142358864</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="我的第一个Java程序">
+      <created>1687143507609</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687143507609</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,9 +187,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="我的第一个Java程序" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="我的第一个Java程序" />
+    <option name="LAST_COMMIT_MESSAGE" value="我的第一个Java程序" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
